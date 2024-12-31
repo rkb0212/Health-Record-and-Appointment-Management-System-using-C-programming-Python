@@ -1,4 +1,4 @@
-# Hospital-Record-Management-System-using-C-programming-Python
+# Health Record and Appointment Management System-using-C-programming-Python
 1. Overview of the System
 The Hospital Record Management System is designed to manage health records, appointments, and user roles in a structured and accessible way. The project has two main implementations:
 
