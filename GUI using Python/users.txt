@@ -1,0 +1,3 @@
+admin admin123 admin
+doctor doc123 doctor
+receptionist rec123 receptionist
